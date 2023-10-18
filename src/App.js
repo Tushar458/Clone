@@ -8,9 +8,6 @@ import {EDM} from './EDM';
 import {rock} from './rock';
 import Scroll from './Scroll';
 
-
-
-
 import CardList2 from './CardList2'; //rap
 import CardList3 from './CardList3'; //pop
 import CardList4 from './CardList4'; //EDM
